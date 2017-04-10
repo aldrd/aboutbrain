@@ -8,10 +8,10 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("Пр. организация по контекстам")>
+<Assembly: AssemblyTitle("Факторы в тексте")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("Пр. организация по контекстам")>
+<Assembly: AssemblyProduct("Факторы в тексте")>
 <Assembly: AssemblyCopyright("Copyright ©  2015")>
 <Assembly: AssemblyTrademark("")>
 

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Факторы в тексте", "Пр. организация по контекстам\Факторы в тексте.vbproj", "{0109738A-761A-4182-87C4-A25BBFC92428}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Факторы в тексте", "Факторы в тексте\Факторы в тексте.vbproj", "{0109738A-761A-4182-87C4-A25BBFC92428}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
