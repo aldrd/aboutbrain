@@ -1,0 +1,16 @@
+c:\users\alexey\documents\visual studio 2015\Projects\Пр. организация по контекстам\Пр. организация по контекстам\bin\Debug\Пр.организация_по_контекстам.exe.config
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Пр. организация по контекстам\Пр. организация по контекстам\bin\Debug\Пр.организация_по_контекстам.exe
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Пр. организация по контекстам\Пр. организация по контекстам\bin\Debug\Пр.организация_по_контекстам.pdb
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Пр. организация по контекстам\Пр. организация по контекстам\bin\Debug\Пр.организация_по_контекстам.xml
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Пр. организация по контекстам\Пр. организация по контекстам\obj\Debug\Пр. организация по контекстам.vbprojResolveAssemblyReference.cache
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Пр. организация по контекстам\Пр. организация по контекстам\obj\Debug\Пр.организация_по_контекстам.Form1.resources
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Пр. организация по контекстам\Пр. организация по контекстам\obj\Debug\Пр.организация_по_контекстам.Resources.resources
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Пр. организация по контекстам\Пр. организация по контекстам\obj\Debug\Пр. организация по контекстам.vbproj.GenerateResource.Cache
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Пр. организация по контекстам\Пр. организация по контекстам\obj\Debug\Пр.организация_по_контекстам.exe
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Пр. организация по контекстам\Пр. организация по контекстам\obj\Debug\Пр.организация_по_контекстам.xml
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Пр. организация по контекстам\Пр. организация по контекстам\obj\Debug\Пр.организация_по_контекстам.pdb
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Пр. организация по контекстам\Пр. организация по контекстам\obj\Debug\Пр.организация_по_контекстам.Resource1.resources
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\bin\Debug\Пр.организация_по_контекстам.exe.config
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\obj\Debug\Пр.организация_по_контекстам.exe
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\obj\Debug\Пр.организация_по_контекстам.xml
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\obj\Debug\Пр.организация_по_контекстам.pdb

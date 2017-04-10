@@ -1,0 +1,28 @@
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\bin\Debug\Факторы в тексте.exe.config
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\obj\Debug\Факторы в тексте.vbprojResolveAssemblyReference.cache
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\obj\Debug\Факторы_в_тексте.Form1.resources
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\obj\Debug\Факторы_в_тексте.Resources.resources
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\obj\Debug\Факторы_в_тексте.Resource1.resources
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\obj\Debug\Факторы в тексте.vbproj.GenerateResource.Cache
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\obj\Debug\Факторы в тексте.xml
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\bin\Debug\Факторы в тексте.exe
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\bin\Debug\Факторы в тексте.pdb
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\bin\Debug\Факторы в тексте.xml
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\obj\Debug\Факторы в тексте.exe
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\obj\Debug\Факторы в тексте.pdb
+C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\obj\Debug\Факторы_в_тексте.context_show.resources
+C:\Users\AR\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\bin\Debug\Факторы в тексте.exe.config
+C:\Users\AR\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\obj\Debug\Факторы в тексте.exe
+C:\Users\AR\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\obj\Debug\Факторы в тексте.xml
+C:\Users\AR\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\obj\Debug\Факторы в тексте.pdb
+C:\Users\AR\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\bin\Debug\Факторы в тексте.exe
+C:\Users\AR\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\bin\Debug\Факторы в тексте.pdb
+C:\Users\AR\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\bin\Debug\Факторы в тексте.xml
+C:\Users\AR\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\obj\Debug\Факторы в тексте.vbprojResolveAssemblyReference.cache
+C:\Users\AR\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\obj\Debug\Факторы_в_тексте.context_show.resources
+C:\Users\AR\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\obj\Debug\Факторы_в_тексте.Form1.resources
+C:\Users\AR\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\obj\Debug\Факторы_в_тексте.Resources.resources
+C:\Users\AR\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\obj\Debug\Факторы_в_тексте.Resource1.resources
+C:\Users\AR\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\obj\Debug\Факторы в тексте.vbproj.GenerateResource.Cache
+C:\Users\AR\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\obj\Debug\Факторы_в_тексте.Supervised_learning.resources
+C:\Users\AR\Documents\Visual Studio 2015\Projects\Факторы в тексте\Пр. организация по контекстам\obj\Debug\Факторы_в_тексте.Unsupervised_learning.resources
