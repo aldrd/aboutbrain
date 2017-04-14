@@ -955,7 +955,6 @@ End Class
 Class point
 
     Public bin As BitArray
-    Public Con_common_act() As Integer
     Public cross As Integer ' число попадания бит сигнала в точку
     Public memory As New List(Of mem_recept_cluster)
     Public profile_A_complit() As Integer  ' профиль активности точки
@@ -970,7 +969,6 @@ Class point
         bin = New BitArray(N_bit_main)
         ReDim profile_A_complit(N_bits_in_point - 1)
         ReDim profile_A_part(N_bits_in_point - 1)
-        ReDim Con_common_act(N_bit_main - 1)
     End Sub
 
 
@@ -994,19 +992,14 @@ Friend Class mem_recept_cluster
 
     Public N As Integer
 
-    'Public mem_link As common_memory_item
-
 
     Public history_part_A As New List(Of String)
     Public history_part_A_bin As New List(Of BitArray)
 
 
     Public bits_set() As Integer
-    Public bits_set_final() As Integer
-    Public common_A(,) As Integer
-    Public common_A_total(,) As Integer
-    Public W() As Integer
 
+    Public W() As Integer
 
     Public N_learn As Integer
     Public N_learn_next As Integer
