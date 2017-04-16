@@ -369,7 +369,7 @@ Public Class Combinatorial_space
 
                             Case status_type.permanent_1
 
-                                If .N_learn >= N_learn_1 Then
+                                If .N_learn >= N_learn_2 Then
 
                                     .status = status_type.permanent_2
                                     N_perm += 1
