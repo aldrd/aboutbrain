@@ -45,6 +45,9 @@ Public Class Combinatorial_space
     Friend min_N_sign_p As Integer ' минимальное число рецепторов в кластере в процессе консолидации
     Friend min_N_sign_create As Integer ' минимальное число рецепторов в кластере в момент создания
 
+    Friend min_N_sign_p_out As Integer ' минимальное число активных бит в выходе
+
+
     Dim max_M_in_point As Integer ' предельное число кластеров в точке
 
     Public out_code As BitArray
@@ -92,6 +95,7 @@ Public Class Combinatorial_space
                 min_N_sign_p = 4
                 min_N_sign_create = 6
 
+                min_N_sign_p_out = 4
 
 
             Case Learning_mode.supervised
@@ -660,7 +664,7 @@ Public Class Combinatorial_space
         make_profile(bin)
 
         find_main_lvl()
-        make_points_A(min_N_sign_p, main_lvl)
+        make_points_A(main_lvl, 1)
 
         make_out_code_A()
 
@@ -825,7 +829,7 @@ Public Class Combinatorial_space
 
         For l = top_lvl To 0 Step -1
             make_points_A(l, 1)
-            If A_lvl_N_p >= min_N_sign_p Then
+            If A_lvl_N_p >= min_N_sign_p_out Then
                 main_lvl = l
                 Exit For
             End If
@@ -839,6 +843,7 @@ Public Class Combinatorial_space
     ' L_N - уровень количества (кол-во воспоминаний)
     Public Sub make_points_A(L_lvl As Integer, L_N As Integer)
 
+        A_lvl_N_p = 0
 
         For Each p In points
 
@@ -846,7 +851,7 @@ Public Class Combinatorial_space
             If p.profile_A_part(L_lvl) >= L_N Then ' активация по частичному совпадению
 
                 p.A = True
-
+                A_lvl_N_p += 1
             Else
                 p.A = False
             End If
@@ -1134,10 +1139,13 @@ Friend Class mem_recept_cluster
                     F(i) = F(i) / max
                 Next
 
-                nu = nu * 0.8
 
             Next
+
+            nu = nu * 0.8
+
         Next
+
         F_main_iter = F
 
     End Function
